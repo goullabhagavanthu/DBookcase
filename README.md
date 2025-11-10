@@ -32,7 +32,7 @@ pytest test_project.py
 
 
 Demo
-A short video demonstrating project functionality is available here: [insert link to demo video]
+A short video demonstrating project functionality is available here: https://youtu.be/25JJXfgeZIE?si=XfDA4E_ay6deM6U0
 
 Credits:
 Developed by Denver as part of the CS50P final project.
