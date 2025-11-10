@@ -35,4 +35,4 @@ Demo
 A short video demonstrating project functionality is available here: [insert link to demo video]
 
 Credits:
-Developed by [Denver] as part of the CS50P final project.
+Developed by Denver as part of the CS50P final project.
